@@ -1,0 +1,6 @@
+# Exercise 1.2
+aircraft_1 coordinates :  50 55
+aircraft_2 coordinates :  60 61
+aircraft_3 coordinates :  65 66
+aircraft_4 coordinates :  71 73
+aircraft_5 coordinates :  74 76
